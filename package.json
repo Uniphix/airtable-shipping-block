@@ -11,7 +11,7 @@
         "react": "^16.13.0",
         "react-dom": "^16.13.0",
         "react-vertical-timeline-component": "^3.0.2",
-        "shippo": "^1.5.0",
+        "shippo": "^1.7.1",
         "styled-components": "^5.1.1",
         "vertical-timeline-component-react": "^1.2.3"
     },
