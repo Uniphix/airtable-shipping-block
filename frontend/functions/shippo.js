@@ -1,6 +1,3 @@
-import { globalConfig } from "@airtable/blocks";
-import * as Shippo from 'shippo';
-import axios from 'axios'
 import bearer from "@bearer/js";
 const bearerClient = bearer(
   "pk_development_dcdd7838b4eeec0116256798bd5e4a01985060bbbf1c26135a"
